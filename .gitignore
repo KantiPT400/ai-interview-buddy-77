@@ -1,4 +1,13 @@
+
+# dependencies
 node_modules/
 .env
+.env.local
+
+# build outputs
 dist/
-.vscode/
+build/
+
+# misc
+.DS_Store
+*.log
